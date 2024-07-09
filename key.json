@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "kodekamp-backend",
+  "private_key_id": "8f8eda8a18e08ac79b7ed6862a93417b70067f26",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDeonMxcNK0sas4\njaEGgTUqPmJi/7jGxDo4/vIUnuOBPpkxjN2enKrDh+JT03/bR6WAoSUNJ6GSKK8W\nJUvRwIToGl1CE1fzr52VhWx6Sn4lGo6kEs9EvIAPm8gzQ0z3KpUMQeRA6BRde67K\nf8M/DWIMlE3w/NW2xtQlJn3YMT3VcEVQYzhdb7FdzrHyyiXMVI3WbML+LGe1dsRo\nh5mZqj/NXWutXZ1wJEPQTtJcqdF2J/7R9phOvTUgDNAUC5j8f2RReGkfGMUNOW2g\nxDsuy9aufjU/hVvGPKGuguXPkbyPH6OQfZHKkckOUTfHkqOZIHXiezOot0ZAU6os\n9Fa27jVXAgMBAAECggEALcku844GZ07arajC4vmTm3p09XMt5wLYDnywAHmkxCHB\nk6UqtsH1hHzfmOm4M7qKWOfLHOd3nP1s9Jr6+sojCzDQ2RPtVJpbSDLGWmgThUHu\n7+NGaRZzJ8Kb6579px9Ew96ROKACAC+9hLu9xavU7E1bsiHtOceuPW2rF9kYpFou\nRLE7Z762wVLl5y/hzKul3WFMJ2qC1d1CClEHQZ6lcyX2k0jfnHDjXlFNngQzx2Hs\naVEq5kfA/gLwzTAmlm4jlBmnqdlElRlwlBZp+o30ndBssG5w6dYA+DHVbq1JjXQL\nMPXcllWv1Fk4/db1fBFtG/4CR/FpQSEwPG8RzwSD8QKBgQD3f/AiyvQCm1Ww67Ea\nrgpqPG9TIg9Sn7pWgH7VTRENw2/o5CAz8o5Y3+bn1tsZBFzy6LJwdjxkS4H3+5nb\nOJuOCBerpbebTXGFNwL8FEr2a31bUNRKJ9Yz4gglyhCo37pZJqWLDZeWkJuWaI2B\n6m8x/tkTP97t3Oi7CgBtjMirxQKBgQDmR+SNVEt3cttUyg4yuqhz42X9AlEVOs92\niab0zCAboT6VCNeMt+MwSC7cD+9HqqDsBA4/LkRtzOh3+9v/W/EEx3lcWUMbRNBY\n53AQs7WoKHfR0yEICmHRK9BORrc0h9Hsc1Igt9gBS8+9k3G2sGwuUrn6TwTrlLeu\nfQj9S+liawKBgE/Bc6HSowVAB0InAYBme0a2yO0SObvXaxW6/KRB3HAB/csf0FzN\nGh/7rw4gx6PtKwLAB9iD0XxEdNJzyqXBPSds5ivTEDLEpwNVsemHpIx6IQBPMMng\nwn8fpJ6A2hOBXSyjbo87xxCm8uxqLsehw0lqJYu1dmJSYND9LRwgVP49AoGBALFR\naovo/LNdncYMUCJ/2HZkA4Ru5ECUqGt+UzDsfUzJPIdF57RTZH0pF+wb2QQ2PvN9\nq/q6hbaGsfqx1RUslso3TxvtH98/fa73hzNVLevuPVU0XZrzY57NPfkIOsoYS2zm\n37aR2aIl3jD79/PUpXiF+u7jKca9HTMe1G02pt9BAoGAeRreM+PgrM7bHQEeB72f\nPNuWjiL/ulkpZQ6TWcBGGWA39Qkxiz9SVHXhoqbW5+prajkPby7xrfLHVY3dR18p\nRUNhgZN/GXPm1bOX1ebijKgg88VPWvzSny/Zt/ySw5gprT43GcoXkk5CRB1sQpeH\n424hzIRaZO1OBNonrxeYjms=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-mcamt@kodekamp-backend.iam.gserviceaccount.com",
+  "client_id": "106846389118269226073",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-mcamt%40kodekamp-backend.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
